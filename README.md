@@ -1,7 +1,7 @@
 # HttpSpamBot
-Musisz utworzyć plik proxy.txt w tej samej lokacji co skompilowany kod
-Format ip:port
-Przykład:
+#Musisz utworzyć plik proxy.txt w tej samej lokacji co skompilowany kod
+#Format ip:port
+#Przykład:
 60.212.31.130:9999
 60.212.31.97:9999
 60.212.36.182:9999
